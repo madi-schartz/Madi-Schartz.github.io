@@ -11,13 +11,12 @@ about:
     - text: LinkedIn
       href:https://www.linkedin.com/in/Madi-Schartz/ 
     - text: GitHub
-      href: https://github.com/Madi-Schartz
+      href:https://github.com/Madi-Schartz
     - text: Email
-      href: mailto:mmschartz04@gmail.com
+      href:mailto::mmschartz04@gmail.com
       
 ---
         
-# page content excluded for brevity ~
 
 This is a Quarto website.
 
