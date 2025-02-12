@@ -17,11 +17,7 @@ about:
       
 ---
         
+Hi there! I'm Madi and am in my third year at Colorado State University. I will be graduating with my Bachelor of Science in Ecosystem Science and Sustainability this semester. I love reading, artwork, gardening,and being outdoors. Click through my website to learn more about me!!  
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
