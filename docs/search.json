@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Madi-Schartz.github.io",
+    "title": "Madi Schartz",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "image: media/headshot.jpeg toc: false about: template: jolla image-shape: round image-width: 17em links: - text: LinkedIn href:https://www.linkedin.com/in/Madi-Schartz/ - text: GitHub href: https://github.com/Madi-Schartz - text: Email href: mailto:mmschartz04@gmail.com\n\n\npage content excluded for brevity ~\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "about.html",
