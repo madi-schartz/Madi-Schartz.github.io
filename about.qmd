@@ -9,7 +9,7 @@ about:
   image-width: 17em
   links:
     - text: LinkedIn
-      href:https:// www.linkedin.com/in/Madi-Schartz
+      href: https://www.linkedin.com/in/Madi-Schartz/
     - text: GitHub
       href:https://github.com/Madi-Schartz
     - text: Email
