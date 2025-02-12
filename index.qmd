@@ -1,6 +1,6 @@
 ---
 title: "Madi Schartz"
----
+
 image: media/headshot.jpeg
 toc: false
 about: 
@@ -9,11 +9,11 @@ about:
   image-width: 17em
   links:
     - text: LinkedIn
-      href:https://www.linkedin.com/in/Madi-Schartz/ 
+      href: https://www.linkedin.com/in/Madi-Schartz/
     - text: GitHub
-      href:https://github.com/Madi-Schartz
+      href: https://github.com/Madi-Schartz/
     - text: Email
-      href:mailto::mmschartz04@gmail.com
+      href: mailto:mmschartz04@gmail.com
       
 ---
         
