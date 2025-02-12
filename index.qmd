@@ -1,7 +1,7 @@
 ---
 title: "Madi Schartz"
 
-image: media/headshot.jpeg
+image: Media/Headshot.jpeg.jpeg 
 toc: false
 about: 
   template: jolla
