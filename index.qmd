@@ -1,6 +1,23 @@
 ---
 title: "Madi Schartz"
 ---
+image: media/headshot.jpeg
+toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href:https://www.linkedin.com/in/Madi-Schartz/ 
+    - text: GitHub
+      href: https://github.com/Madi-Schartz
+    - text: Email
+      href: mailto:mmschartz04@gmail.com
+      
+---
+        
+# page content excluded for brevity ~
 
 This is a Quarto website.
 
