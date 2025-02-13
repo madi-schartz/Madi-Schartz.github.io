@@ -1,9 +1,9 @@
 ---
 title: "Resume"
 format: html
-links:
-    - text: Resume
-      href: https://docs.google.com/document/d/1borYNbPA64V6-4-aPlnbSZOvZ9Lsj8nP_HIL9MDA7zQ/edit?tab=t.0
+media/NR Resume 2025-Schartz, Madi
 ---
 
 ------------------------------------------------------------------------
+
+Natural Resources Resume 2025
