@@ -1,16 +1,9 @@
 ---
 title: "Resume"
 format: html
+links:
+    - text: Resume
+      href: file:///C:/Users/mads23/Documents/GitHub_2025/Madi-Schartz.github.io/media/NR%20Resume%202025-Schartz,%20Madi.pdf
 ---
 
-image: media/NR Resume 2025-Schartz, Madi
-
-toc: false
-
-about:
-
-template: jolla image
-
-shape: rectangle
-
-image-width: 17em
+------------------------------------------------------------------------
