@@ -1,5 +1,5 @@
 ---
-title: "Madi Schartz"
+title: "About"
 
 image: media/headshot.jpeg
 toc: false
