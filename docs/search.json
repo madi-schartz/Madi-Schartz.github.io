@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Madi Schartz",
     "section": "",
-    "text": "image: media/headshot.jpeg toc: false about: template: jolla image-shape: round image-width: 17em links: - text: LinkedIn href:https://www.linkedin.com/in/Madi-Schartz/ - text: GitHub href: https://github.com/Madi-Schartz - text: Email href: mailto:mmschartz04@gmail.com\n\n\npage content excluded for brevity ~\nThis is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi there! I’m Madi and am in my third year at Colorado State University. I will be graduating with my Bachelor of Science in Ecosystem Science and Sustainability this semester. I love reading, artwork, gardening,and being outdoors. Click through my website to learn more about me!!"
   },
   {
     "objectID": "about.html",
