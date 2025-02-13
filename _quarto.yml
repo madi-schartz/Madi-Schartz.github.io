@@ -10,7 +10,7 @@ website:
         text: Home
       - about.qmd
       - resume.qmd
-      -CSUProjects.qmd
+      - CSUProjects.qmd
 
 format:
   html:
