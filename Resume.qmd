@@ -3,7 +3,7 @@ title: "Resume"
 format: html
 links:
     - text: Resume
-      href: file:///C:/Users/mads23/Documents/GitHub_2025/Madi-Schartz.github.io/media/NR%20Resume%202025-Schartz,%20Madi.pdf
+      href: https://docs.google.com/document/d/1borYNbPA64V6-4-aPlnbSZOvZ9Lsj8nP_HIL9MDA7zQ/edit?tab=t.0
 ---
 
 ------------------------------------------------------------------------
