@@ -1,3 +1,5 @@
 ---
 title: "About"
 ---
+
+This website is created by Madison Schartz through the help of the ESS 330 course
