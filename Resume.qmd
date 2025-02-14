@@ -2,7 +2,7 @@
 title: "Resume"
 ---
 
-# Welcome to My Document
+# Welcome to my Resume Page !
 
 You can download my resume here:
 
