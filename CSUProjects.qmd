@@ -3,12 +3,16 @@ title: "Projects"
 format: html
 ---
 
-In the Spring of 2025 I took a class Quantitative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links! 
+In the Spring of 2025 I took the course ESS 330 Quantitative Reasoning class based in R. I learned how to use RStudio and GitHub to code projects like this one!
 
 ## [Building a project website]()
 
-- In this assignment we built a static users site with Github Pages 
-- Includes a github repo for access to all the code.
-- Look at how high quality my work is!
----
+-   In this assignment we built a static users site with Github Pages
 
+-   I learned how to fork pages from Mikes GitHub account to mine to be able to use in this project.
+
+-   I gained the skills of using qmd and yml files to organize content for the webpage I created.
+
+-   I learned how to write in Quartor and in code to create a cohesive website.
+
+    ## Look at how high quality my work is!
