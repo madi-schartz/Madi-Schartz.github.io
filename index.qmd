@@ -16,7 +16,7 @@ about:
       text: GitHub
       href: https://github.com/Madi-Schartz/
       target: _blank
-    - icon: gmail
+    - icon: Email
       text: Email
       href: mailto:mmschartz04@gmail.com
       target: _blank
@@ -27,7 +27,7 @@ about:
 Hi there! I'm Madi and I am an emerging, highly-organized leader eager to get hands-on experience positively impacting our community. As
 an outgoing person, I love to connect with different types of people in all types of environments. I am passionate about
 horticulture, sustainable food systems, ecosystems, and conservation work. I strive to make a difference in
-strengthening our community ties to the environment with values in making our space inclusive and equitable. Click through my webiste to learn more about me!
+strengthening our community ties to the environment with values in making our space inclusive and equitable. Click through my website to learn more about me!
 
 ## Education
 

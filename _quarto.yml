@@ -16,6 +16,7 @@ website:
       - icon: github # add icons as navbar buttons
         href: https://github.com/madi-schartz
         target: _blank
+
 page-footer:
     background: light # or `dark`
     left: Copyright 2025, Madi Schartz
