@@ -1,5 +1,6 @@
 ---
 title: "Resume"
+output-file: pdf_document
 ---
 
 # Welcome to my Resume Page !
