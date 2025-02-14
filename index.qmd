@@ -8,12 +8,18 @@ about:
   image-shape: rectangle
   image-width: 25em
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/Madi-Schartz/
-    - text: GitHub
+      target: _blank
+    - icon: github
+      text: GitHub
       href: https://github.com/Madi-Schartz/
-    - text: Email
+      target: _blank
+    - icon: gmail
+      text: Email
       href: mailto:mmschartz04@gmail.com
+      target: _blank
       
 ---
 # Madi Schartz
