@@ -3,3 +3,14 @@ title: "Resume"
 format: html
 ---
 
+image: media/NR Resume 2025-Schartz, Madi
+
+toc: false
+
+about:
+
+template: jolla image
+
+shape: rectangle
+
+image-width: 17em
