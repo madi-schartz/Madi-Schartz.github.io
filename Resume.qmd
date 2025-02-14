@@ -6,4 +6,4 @@ title: "Resume"
 
 You can download my resume here:
 
-[Natural Resources Resume 2025](file:///C:/Users/mads23/Downloads/media/Resume.pdf)
+[Natural Resources Resume 2025](file://C:media/Resume.pdf)
