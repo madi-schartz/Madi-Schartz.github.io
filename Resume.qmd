@@ -1,6 +1,9 @@
 ---
 title: "Resume"
-output-file: html_document
-
-media/NR Resume 2025-Schartz, Madi(path/to/your-image.pdf)
 ---
+
+# Welcome to My Document
+
+You can download my resume here:
+
+[Natural Resources Resume 2025](file:///C:/Users/mads23/Documents/GitHub_2025/Madi-Schartz.github.io/media/NR%20Resume%202025-Schartz,%20Madi.pdf)
