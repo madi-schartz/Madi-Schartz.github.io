@@ -9,9 +9,7 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
-      - href: file/path/to/myCV.pdf
-        text: Resume
-        target: _blank # opens link (or page) in a new browser tabResume.qmd
+      - Resume.qmd
       - CSUProjects.qmd
       - icon: github # add icons as navbar buttons
         href: https://github.com/madi-schartz
