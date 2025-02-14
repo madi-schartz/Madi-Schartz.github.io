@@ -1,7 +1,6 @@
 ---
 title: "Resume"
+output-file: html_document
+
+media/NR Resume 2025-Schartz, Madi(path/to/your-image.pdf)
 ---
-
-Natural Resources Resume 2025
-
-NR Resume 2025-Schartz, Madi.pdf
