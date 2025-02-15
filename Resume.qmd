@@ -7,4 +7,4 @@ output-file: pdf_document
 
 You can download my resume here :
 
-[Natural Resources Resume 2025](file:///C:/Users/mads23/Documents/GitHub_2025/Madi-Schartz.github.io/media/NR Resume 2025-Schartz, Madi.pdf)
+[Natural Resources Resume 2025](file:///C:/Users/mads23/Documents/GitHub_2025/Madi-Schartz.github.io/resume.pdf)
