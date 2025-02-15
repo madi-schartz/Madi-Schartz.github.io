@@ -2,24 +2,33 @@
 
 
 // Colors
-$dark-green: #5d6455;
-$light-green: #61714d;
-$brown: #7b7167;
-$blue: #495c60;
-$maroon: #925833;
+$green: #8c8c5a;
+$clay: #bfa38e;
+$brown: #6b4f38;
+$cocoa: #3e2c1c;
+$gold: #f9f4ec;
+$almond: #f1e1c6;
+
+$forest: #2e4a46;
+$soft: #f1f8f1;
+$moss: #a7c957;
+$walnut: #4f4a47;
+$olive: #6a8e4d;
+$birch: #f4f1eb;
+
 
 // Base document colors
-$navbar-bg: $maroon; // navbar
-$navbar-fg: $dark-green; // navbar foreground elements
-$navbar-hl: $light-green; // highlight color when hovering over navbar links
-$body-bg: $blue; // page background
-$body-color: $brown; // page text
-$footer-bg: $brown; // footer
-$link-color: $brown; // hyperlinks
+$navbar-bg: $forest; // navbar
+$navbar-fg: $soft; // navbar foreground elements
+$navbar-hl: $moss; // highlight color when hovering over navbar links
+$body-bg: $gold;// page background
+$body-color: $cocoa; // page text
+$footer-bg: $forest; // footer
+$link-color: $olive; // hyperlinks
 
 // Inline code
 $code-bg: $brown; // inline code background color
-$code-color: $maroon; // inline code text color
+$code-color: $gold; // inline code text color
 
 
 
