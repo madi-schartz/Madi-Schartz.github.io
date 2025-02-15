@@ -16,7 +16,7 @@ about:
       text: GitHub
       href: https://github.com/Madi-Schartz/
       target: _blank
-    - icon: Gmail
+    - icon: gmail
       text: Email
       href: mailto:mmschartz04@gmail.com
       target: _blank
