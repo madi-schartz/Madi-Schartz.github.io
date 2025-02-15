@@ -13,6 +13,10 @@ In the Spring of 2025 I took the course ESS 330 Quantitative Reasoning class bas
 
 -   I gained the skills of using qmd and yml files to organize content for the webpage I created.
 
+-   I learned how to maintain workflows using Quarto and GitHub in a way that can communicate several documents.
+
 -   I learned how to write in Quarto and in code to create a cohesive website.
+
+-   I gained confidence in my technical skills. I would have never thought I would be able to produce a working website with so many moving parts!
 
     ## Look at how high quality my work is!
