@@ -18,7 +18,7 @@ about:
       target: _blank
     - icon: gmail
       text: Email
-      href: mailto:mmschartz04@gmail.com
+      href: mailto:mmschartz04@gmail.com 
       target: _blank
       
 ---

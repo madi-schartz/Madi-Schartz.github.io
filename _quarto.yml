@@ -25,7 +25,7 @@ format:
     theme:
       - darkly
       - styles.scss
-    mainfont: Cormorant
+    mainfont: Lora
     toc: true
     page-layout: full
 
