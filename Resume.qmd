@@ -1,9 +1,11 @@
 ---
 title: "Resume"
-output-file: pdf_document
+output: pdf_document
 ---
 
 # Welcome to my Resume Page !
+
+You can download my resume [Natural Resources Resume 2025](file:///C:/Users/mads23/Documents/GitHub_2025/Madi-Schartz.github.io/resume.pdf).
 
 Madison Schartz
 Fort Collins, CO | (303) 921-6630 | Mmschartz04@gmail.com | www.linkedin.com/in/Madi-Schartz
