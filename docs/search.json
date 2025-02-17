@@ -1,16 +1,44 @@
 [
   {
+    "objectID": "Resume.html",
+    "href": "Resume.html",
+    "title": "Resume",
+    "section": "",
+    "text": "Welcome to my Resume Page :)\nBelow is my resume or you can download the pdf here Natural Resources Resume 2025.\nMadison Schartz Fort Collins, CO | (303) 921-6630 | Mmschartz04@gmail.com | www.linkedin.com/in/Madi-Schartz\nHORTICULTURE | ENVIRONMENTAL SERVICES | SUSTAINABLE FOOD SYSTEMS\nI am an emerging, highly-organized leader eager to get hands-on experience positively impacting our community. As an outgoing person, I love to connect with different types of people in all types of environments. I am passionate about horticulture, sustainable food systems, ecosystems, and conservation work. I strive to make a difference in strengthening our community ties to the environment with values in making our space inclusive and equitable.\nPERSONAL SKILLS:\n❖ Conflict resolution ❖ Interpersonal and communication skills ❖ Adaptable\nCERTIFICATIONS:\n❖ IRB Social, Humanistic, Behavioral Research ❖ TIPS\nEDUCATION\nBachelor of Science in Ecosystem Science and Sustainability August 2023 - May, 2025 Colorado State University, Fort Collins, CO 3.5 GPA ➢ Participate in ENGAGE scholars, Zero Waste Club, and ESS club ➢ Study Abroad : Sustainable Food Systems in Chocolate, Costa Rica March 2025\nCOMMUNITY IMPACT INITIATIVES\nYouth Community Garden Project\n❖ Led and coordinated a twelve person volunteer trip to Moab, Utah through BreaksAway to aid in flood restoration at the Youth Community Garden. Rocky Mountain Restoration\n❖ Worked with National Park Service through ENGAGE scholars to aid in riparian restoration by planting alder and willow trees in Rocky Mountain National Park to restore the habitat for the beaver population.\nWORK EXPERIENCE\nGardens on Spring Creek, Fort Collins, CO — Horticulture Intern, Gardener May 2024 -Dec 2024 ➢ Successfully followed through with organic gardening methods. ➢ Grew 6,436 lbs of food to donate to the Larimer County Food Bank. ➢ Responsible for the horticulture work in the 3 acres of Garden of Eatin’ from soil prep to harvest. ➢ Coordinated and led two volunteer groups of 10+ people biweekly.\nOlive Garden, Fort Collins, CO — Server May 2023 -May 2024 ➢ Displayed enthusiasm and promoted excellent guest service to guests. ➢ Successfully increased referrals, walk-in business, sales numbers. ➢ Carried out opening, closing, and shift change responsibilities to keep the restaurant working efficiently.\nGhost Towns, Bozeman, MT — Barista Jan 2023 - May 2023 ➢ Worked with local composting sites and farmers to repurpose used coffee grounds. ➢ Cultivated warm relationships with regular customers. ➢ Created stronger bonds with the community in a sustainable way"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Madi Schartz",
     "section": "",
-    "text": "Hi there! I’m Madi and am in my third year at Colorado State University. I will be graduating with my Bachelor of Science in Ecosystem Science and Sustainability this semester. I love reading, artwork, gardening,and being outdoors. Click through my website to learn more about me!!"
+    "text": "Hi there! I’m Madi and I am an emerging, highly-organized leader eager to get hands-on experience positively impacting our community. As an outgoing person, I love to connect with different types of people in all types of environments. I am passionate about horticulture, sustainable food systems, ecosystems, and conservation work. I strive to make a difference in strengthening our community ties to the environment with values in making our space inclusive and equitable. Click through my website to learn more about me!\n\n\nBachelor of Science in Ecosystem Science and Sustainability | August 2023 - May, 2025\nColorado State University, Fort Collins, CO | 3.5 GPA\n➢ Participate in ENGAGE scholars, Zero Waste Club, and ESS club\n➢ Study Abroad : Sustainable Food Systems in Chocolate, Costa Rica March 2025"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Madi Schartz",
+    "section": "",
+    "text": "Bachelor of Science in Ecosystem Science and Sustainability | August 2023 - May, 2025\nColorado State University, Fort Collins, CO | 3.5 GPA\n➢ Participate in ENGAGE scholars, Zero Waste Club, and ESS club\n➢ Study Abroad : Sustainable Food Systems in Chocolate, Costa Rica March 2025"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Madi Schartz",
+    "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "This website is created by Madison Schartz through the help of the ESS 330 course"
+  },
+  {
+    "objectID": "CSUProjects.html",
+    "href": "CSUProjects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "In the Spring of 2025 I took the course ESS 330 Quantitative Reasoning class based in R. I learned how to use RStudio and GitHub to code projects like this one!"
+  },
+  {
+    "objectID": "CSUProjects.html#my-github-repo-for-building-this-website",
+    "href": "CSUProjects.html#my-github-repo-for-building-this-website",
+    "title": "Projects",
+    "section": "My GitHub Repo for Building this Website",
+    "text": "My GitHub Repo for Building this Website\n\nIn this assignment we built a static users site with Github Pages\nI learned how to fork pages from Mikes GitHub account to mine to be able to use in this project.\nI gained the skills of using qmd and yml files to organize content for the webpage I created.\nI learned how to maintain workflows using Quarto and GitHub in a way that can communicate several documents.\nI learned how to write in Quarto and in code to create a cohesive website.\nI gained confidence in my technical skills. I would have never thought I would be able to produce a working website with so many moving parts!\nLook at how high quality my work is!"
   }
 ]
