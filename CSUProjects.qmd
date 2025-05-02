@@ -55,9 +55,9 @@ In the Spring of 2025 I took the course ESS 330 Quantitative Reasoning class bas
 
 ## [Lab 8: ML Tuning](https://madi-schartz.github.io/Lab8/Lab8.html)
 
--   
+-   This lab presented a sharp learning curve for me but once I got it everything was smooth! It was about taking the "Whole Game Plan" about machine learning and applying it to the CAMELS data-set we have used in prior labs.
 
--   
+-   The concept I am most proud of learning was how to properly clean data and split it to then create a recipe that actually works! From there the re-sampling and the three candidate models was pretty straight forward for me. I really enjoy using the Random forests and Boosted trees models. 
 
 ## [Lab 9: Final Project- Results/Discussion Draft](https://snauman4.github.io/ESS330_FinalProject/)
 
@@ -67,9 +67,9 @@ In the Spring of 2025 I took the course ESS 330 Quantitative Reasoning class bas
 
 ## [Lab 10: Distances and Projections](https://madi-schartz.github.io/Lab10/lab10.html#lab-10-distances-and-projections)
 
--   
+-   I have had a lot of fun dealing with spatial data, as I have mentioned above, it creates this connection in my mind relating back to my time in GIS. 
 
--   
+-   I was able to have clean maps that show the equidistant between the Mexico and Canada borders and highlight the danger zones within 100-mile border zone from our National borders. 
 
 ## [Lab 11: Final Project: Lightning Talks](https://snauman4.github.io/ESS330_FinalProject/)
 

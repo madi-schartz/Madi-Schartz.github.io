@@ -109,7 +109,7 @@
     "href": "CSUProjects.html#lab-8-ml-tuning",
     "title": "Projects",
     "section": "Lab 8: ML Tuning",
-    "text": "Lab 8: ML Tuning"
+    "text": "Lab 8: ML Tuning\n\nThis lab presented a sharp learning curve for me but once I got it everything was smooth! It was about taking the “Whole Game Plan” about machine learning and applying it to the CAMELS data-set we have used in prior labs.\nThe concept I am most proud of learning was how to properly clean data and split it to then create a recipe that actually works! From there the re-sampling and the three candidate models was pretty straight forward for me. I really enjoy using the Random forests and Boosted trees models."
   },
   {
     "objectID": "CSUProjects.html#lab-9-final-project--resultsdiscussion-draft",
@@ -123,7 +123,7 @@
     "href": "CSUProjects.html#lab-10-distances-and-projections",
     "title": "Projects",
     "section": "Lab 10: Distances and Projections",
-    "text": "Lab 10: Distances and Projections"
+    "text": "Lab 10: Distances and Projections\n\nI have had a lot of fun dealing with spatial data, as I have mentioned above, it creates this connection in my mind relating back to my time in GIS.\nI was able to have clean maps that show the equidistant between the Mexico and Canada borders and highlight the danger zones within 100-mile border zone from our National borders."
   },
   {
     "objectID": "CSUProjects.html#lab-11-final-project-lightning-talks",
