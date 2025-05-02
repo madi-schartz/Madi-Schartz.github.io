@@ -37,6 +37,8 @@ In the Spring of 2025 I took the course ESS 330 Quantitative Reasoning class bas
 
 -   I got to go through the coding process of doing an exploratory data analysis on our CAMELS data-set to see how mean stream flow looks across a map of the United States.
 
--   I have taken a GIS course so this lab felt like a connection of my background knowledge of GIS and now leanring new skills in coding within R Studio which was a lot of fun!
+-   I have taken a GIS course so this lab felt like a connection of my background knowledge of GIS and now learning new skills in coding within R Studio which was a lot of fun!
 
 ## Look at how high quality my work is and how far my progress throughout the semester has gone!
+
+## [Lab 7: ML Workflows](https://madi-schartz.github.io/Lab6/lab6.html)
