@@ -32,13 +32,55 @@
     "href": "CSUProjects.html",
     "title": "Projects",
     "section": "",
-    "text": "In the Spring of 2025 I took the course ESS 330 Quantitative Reasoning class based in R. I learned how to use RStudio and GitHub to code projects like this one!"
+    "text": "In the Spring of 2025 I took the course ESS 330 Quantitative Reasoning class based in R. I learned how to use RStudio and GitHub to code projects like this one! Scroll down to explore my other projects I did throughout the semester."
   },
   {
     "objectID": "CSUProjects.html#my-github-repo-for-building-this-website",
     "href": "CSUProjects.html#my-github-repo-for-building-this-website",
     "title": "Projects",
     "section": "My GitHub Repo for Building this Website",
-    "text": "My GitHub Repo for Building this Website\n\nIn this assignment we built a static users site with Github Pages\nI learned how to fork pages from Mikes GitHub account to mine to be able to use in this project.\nI gained the skills of using qmd and yml files to organize content for the webpage I created.\nI learned how to maintain workflows using Quarto and GitHub in a way that can communicate several documents.\nI learned how to write in Quarto and in code to create a cohesive website.\nI gained confidence in my technical skills. I would have never thought I would be able to produce a working website with so many moving parts!\nLook at how high quality my work is!"
+    "text": "My GitHub Repo for Building this Website\n\nIn this assignment we built a static users site with Github Pages\nI learned how to fork pages from Mikes GitHub account to mine to be able to use in this project.\nI gained the skills of using qmd and yml files to organize content for the webpage I created.\nI learned how to maintain workflows using Quarto and GitHub in a way that can communicate several documents.\nI learned how to write in Quarto and in code to create a cohesive website.\nI gained confidence in my technical skills. I would have never thought I would be able to produce a working website with so many moving parts!"
+  },
+  {
+    "objectID": "CSUProjects.html#lab-3-covid-19",
+    "href": "CSUProjects.html#lab-3-covid-19",
+    "title": "Projects",
+    "section": "Lab 3: COVID-19",
+    "text": "Lab 3: COVID-19\n\nI learned how the ability to have access to open data is extremely important for equitable exposure within environmental science.\nI got to practice my data wrangling skills using a real-world data-set about COVID cases through the New York Times."
+  },
+  {
+    "objectID": "CSUProjects.html#lab-4-statistics-in-r",
+    "href": "CSUProjects.html#lab-4-statistics-in-r",
+    "title": "Projects",
+    "section": "Lab 4: Statistics in R",
+    "text": "Lab 4: Statistics in R\n\nI got to practice my skills using coding to run through basic statistical tests in like chi-square, t-tests, and correlation tests.\nWe were given examples from our assignment instructions that helped me reproduce the same statistical tests on the Long-Term Ecological Research (LTER) Network data sets."
+  },
+  {
+    "objectID": "CSUProjects.html#lab-5-statistics-in-r",
+    "href": "CSUProjects.html#lab-5-statistics-in-r",
+    "title": "Projects",
+    "section": "Lab 5: Statistics in R",
+    "text": "Lab 5: Statistics in R"
+  },
+  {
+    "objectID": "CSUProjects.html#look-at-how-high-quality-my-work-is-and-how-far-my-progress-throughout-the-semester-has-gone",
+    "href": "CSUProjects.html#look-at-how-high-quality-my-work-is-and-how-far-my-progress-throughout-the-semester-has-gone",
+    "title": "Projects",
+    "section": "Look at how high quality my work is and how far my progress throughout the semester has gone!",
+    "text": "Look at how high quality my work is and how far my progress throughout the semester has gone!"
+  },
+  {
+    "objectID": "CSUProjects.html#lab-6-ml-workflows",
+    "href": "CSUProjects.html#lab-6-ml-workflows",
+    "title": "Projects",
+    "section": "Lab 6: ML Workflows",
+    "text": "Lab 6: ML Workflows\n\nThis is the lab where I was introduced to the tidymodels package, meant for predictive modeling, which was so helpful!\nI got to go through the coding process of doing an exploratory data analysis on our CAMELS data-set to see how mean stream flow looks across a map of the United States.\nI have taken a GIS course so this lab felt like a connection of my background knowledge of GIS and now learning new skills in coding within R Studio which was a lot of fun!"
+  },
+  {
+    "objectID": "CSUProjects.html#lab-7-ml-workflows",
+    "href": "CSUProjects.html#lab-7-ml-workflows",
+    "title": "Projects",
+    "section": "Lab 7: ML Workflows",
+    "text": "Lab 7: ML Workflows"
   }
 ]
