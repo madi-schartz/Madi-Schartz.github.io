@@ -31,6 +31,6 @@ In the Spring of 2025 I took the course ESS 330 Quantitative Reasoning class bas
 
 -   We were given examples from our assignment instructions that helped me reproduce the same statistical tests on the Long-Term Ecological Research (LTER) Network data sets. 
 
-
+## [Lab 5: Statistics in R](https://madi-schartz.github.io/Lab-4-LTER-Network-Data/docs/lab4.html)
 
 ## Look at how high quality my work is and how far my progress throughout the semester has gone!
