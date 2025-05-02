@@ -3,7 +3,7 @@ title: "Projects"
 format: html
 ---
 
-In the Spring of 2025 I took the course ESS 330 Quantitative Reasoning class based in R. I learned how to use RStudio and GitHub to code projects like this one!
+In the Spring of 2025 I took the course ESS 330 Quantitative Reasoning class based in R. I learned how to use RStudio and GitHub to code projects like this one! Scroll down to explore my other projects I did throughout the semester.
 
 ## [My GitHub Repo for Building this Website](https://github.com/madi-schartz/Madi-Schartz.github.io)
 
@@ -19,4 +19,5 @@ In the Spring of 2025 I took the course ESS 330 Quantitative Reasoning class bas
 
 -   I gained confidence in my technical skills. I would have never thought I would be able to produce a working website with so many moving parts!
 
+## [My GitHub Repo for Building this Website](https://github.com/madi-schartz/Madi-Schartz.github.io)
     ## Look at how high quality my work is!
