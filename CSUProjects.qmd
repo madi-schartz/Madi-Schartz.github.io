@@ -19,5 +19,18 @@ In the Spring of 2025 I took the course ESS 330 Quantitative Reasoning class bas
 
 -   I gained confidence in my technical skills. I would have never thought I would be able to produce a working website with so many moving parts!
 
-## [My GitHub Repo for Building this Website](https://github.com/madi-schartz/Madi-Schartz.github.io)
-    ## Look at how high quality my work is!
+## [Lab 3: COVID-19](https://madi-schartz.github.io/csu-ess-lab3/lab-03.html)
+
+-   I learned how the ability to have access to open data is extremely important for equitable exposure within environmental science.
+
+-   I got to practice my data wrangling skills using a real-world data-set about COVID cases through the New York Times. 
+
+## [Lab 4: Statistics in R](https://madi-schartz.github.io/Lab-4-LTER-Network-Data/docs/lab4.html)
+
+-   I got to practice my skills using coding to run through basic statistical tests in like chi-square, t-tests, and correlation tests. 
+
+-   We were given examples from our assignment instructions that helped me reproduce the same statistical tests on the Long-Term Ecological Research (LTER) Network data sets. 
+
+
+
+## Look at how high quality my work is and how far my progress throughout the semester has gone!
