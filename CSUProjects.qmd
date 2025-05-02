@@ -55,8 +55,24 @@ In the Spring of 2025 I took the course ESS 330 Quantitative Reasoning class bas
 
 ## [Lab 8: ML Tuning](https://madi-schartz.github.io/Lab8/Lab8.html)
 
+-   
+
+-   
 
 ## [Lab 9: Final Project- Results/Discussion Draft](https://snauman4.github.io/ESS330_FinalProject/)
 
+-    We were given feedback on our lab 7, which was our final introduction and method sections, and fixed based off of the feedback.
+
+-   We added 8 more sites, 4 for protected and 4 for unprotected areas, in states ranging throughout the Southwestern River Basins. This was challenging as data was limited and not consistent for all the water quality measurements we were looking for. I learned how to persevere through challenges and we got through it with amazing graphs and figures! 
 
 ## [Lab 10: Distances and Projections](https://madi-schartz.github.io/Lab10/lab10.html#lab-10-distances-and-projections)
+
+-   
+
+-   
+
+## [Lab 11: Final Project: Lightning Talks](https://snauman4.github.io/ESS330_FinalProject/)
+
+-   This is our final project that we submitted to our assignment and gave a presentation on.  We were given our last feedback on our lab 9, which was our final results and discussion sections, and fixed based off of the feedback.
+
+-  We added in a map that highlighted all of our river sites, added in a decomposition time graph, and standardized our data by size of river basin that way we are are to compare apples to apples. 
