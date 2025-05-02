@@ -31,6 +31,12 @@ In the Spring of 2025 I took the course ESS 330 Quantitative Reasoning class bas
 
 -   We were given examples from our assignment instructions that helped me reproduce the same statistical tests on the Long-Term Ecological Research (LTER) Network data sets. 
 
-## [Lab 5: Statistics in R](https://madi-schartz.github.io/Lab-4-LTER-Network-Data/docs/lab4.html)
+## [Lab 6: ML Workflows](https://madi-schartz.github.io/Lab6/lab6.html)
+
+-   This is the lab where I was introduced to the tidymodels package, meant for predictive modeling, which was so helpful!
+
+-   I got to go through the coding process of doing an exploratory data analysis on our CAMELS data-set to see how mean stream flow looks across a map of the United States.
+
+-   I have taken a GIS course so this lab felt like a connection of my background knowledge of GIS and now leanring new skills in coding within R Studio which was a lot of fun!
 
 ## Look at how high quality my work is and how far my progress throughout the semester has gone!
