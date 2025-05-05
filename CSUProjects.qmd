@@ -45,8 +45,6 @@ In the Spring of 2025 I took the course ESS 330 Quantitative Reasoning class bas
 
 -   I have taken a GIS course so this lab felt like a connection of my background knowledge of GIS and now learning new skills in coding within R Studio which was a lot of fun!
 
-## Look at how high quality my work is and how far my progress throughout the semester has gone!
-
 ## [Lab 7: Final Project- Intro/Methods Draft](https://snauman4.github.io/ESS330_FinalProject/)
 
 -   We were given feedback on our lab 5 which was our final project proposals and fixed based off of the feedback. 
@@ -76,3 +74,5 @@ In the Spring of 2025 I took the course ESS 330 Quantitative Reasoning class bas
 -   This is our final project that we submitted to our assignment and gave a presentation on.  We were given our last feedback on our lab 9, which was our final results and discussion sections, and fixed based off of the feedback.
 
 -  We added in a map that highlighted all of our river sites, added in a decomposition time graph, and standardized our data by size of river basin that way we are are to compare apples to apples. 
+
+## Look at how high quality my work is and how far my progress throughout the semester has gone!
